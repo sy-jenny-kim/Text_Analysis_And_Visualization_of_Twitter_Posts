@@ -19,14 +19,14 @@ Finally, we created a barplot dendrogram to visualize the results of our Latent 
 
 ### Tableau Visualizations
 
-![Physical Activity and Sleep Disorder Tweet Comparison Across Canada]![Map](https://user-images.githubusercontent.com/80138718/110217252-455b9980-7e70-11eb-8ee2-ec774aefc545.png)
+![Map](https://user-images.githubusercontent.com/80138718/110217252-455b9980-7e70-11eb-8ee2-ec774aefc545.png)
 
-![Google Trends]![GoogleTrends](https://user-images.githubusercontent.com/80138718/110217310-86ec4480-7e70-11eb-83ad-62f25830a63c.png)
+![GoogleTrends](https://user-images.githubusercontent.com/80138718/110217310-86ec4480-7e70-11eb-83ad-62f25830a63c.png)
 
-![Bigram Dashboard]![Bigrams](https://user-images.githubusercontent.com/80138718/110217325-9bc8d800-7e70-11eb-9a84-720fd208d640.png)
+![Bigrams](https://user-images.githubusercontent.com/80138718/110217325-9bc8d800-7e70-11eb-9a84-720fd208d640.png)
 
-![Binary Classification]![BinaryClassify](https://user-images.githubusercontent.com/80138718/110217330-a3887c80-7e70-11eb-9a86-017aad82c138.png)
+![BinaryClassify](https://user-images.githubusercontent.com/80138718/110217330-a3887c80-7e70-11eb-9a86-017aad82c138.png)
 
-![Physical Activity LDA]![PhysActLDA](https://user-images.githubusercontent.com/80138718/110217334-a8e5c700-7e70-11eb-9bfd-05c4295f6d13.png)
+![PhysActLDA](https://user-images.githubusercontent.com/80138718/110217334-a8e5c700-7e70-11eb-9bfd-05c4295f6d13.png)
 
-![Sleep Disorder LDA]![SleepLDA](https://user-images.githubusercontent.com/80138718/110217338-ad11e480-7e70-11eb-9946-19328bb02b04.png)
+![SleepLDA](https://user-images.githubusercontent.com/80138718/110217338-ad11e480-7e70-11eb-9946-19328bb02b04.png)
