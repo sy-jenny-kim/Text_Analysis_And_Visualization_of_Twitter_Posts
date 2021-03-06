@@ -16,3 +16,17 @@ The first phase of this project involved exploring the distribution of self-repo
 To see if our findings could be further strengthened via data triangulation, we pulled data from other platforms (Google Trends & Reddit). We were interested in understanding the association between public's web search and tweets by comparing self-reported tweet counts and relevant search topics in Google. Furthermore, multiple subreddit posts were mined to compare Twitter posts with Reddit using bigrams. 
 
 Finally, we created a barplot dendrogram to visualize the results of our Latent Dirichlet allocation (LDA). LDA is a natural language processing technique that falls into the topic modelling category. We conducted LDA analysis to discover relationships between a large set of words to observe any hidden semantic structure behind the words (i.e. do the words fall into discrete topics?).
+
+### Tableau Visualizations
+
+![Physical Activity and Sleep Disorder Tweet Comparison Across Canada](/Dashboards/Map.png)
+
+![Google Trends](/Dashboards/GoogleTrends.png)
+
+![Bigram Dashboard](/Dashboards/Bigrams.png)
+
+![Binary Classification](/Dashboards/BinaryClassify.png)
+
+![Physical Activity LDA](/Dashboards/PhysActLDA.png)
+
+![Sleep Disorder LDA](/Dashboards/SleepLDA.png)
