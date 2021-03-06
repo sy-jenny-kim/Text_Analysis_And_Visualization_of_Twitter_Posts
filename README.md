@@ -1,3 +1,4 @@
+![Map](https://user-images.githubusercontent.com/80138718/110217232-3674e700-7e70-11eb-8e78-20cc70610eac.png)
 # Text Analysis and Visualization of Twitter Posts
 **Authors:** Jenny (So Youn) Kim & Atlanta Liu 
 
@@ -19,8 +20,7 @@ Finally, we created a barplot dendrogram to visualize the results of our Latent 
 
 ### Tableau Visualizations
 
-![Physical Activity and Sleep Disorder Tweet Comparison Across Canada](/Dashboards/Map.png)
-
+![Physical Activity and Sleep Disorder Tweet Comparison Across Canada]![Map](https://user-images.githubusercontent.com/80138718/110217252-455b9980-7e70-11eb-8ee2-ec774aefc545.png)
 ![Google Trends](/Dashboards/GoogleTrends.png)
 
 ![Bigram Dashboard](/Dashboards/Bigrams.png)
