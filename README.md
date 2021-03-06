@@ -1,4 +1,3 @@
-![Map](https://user-images.githubusercontent.com/80138718/110217232-3674e700-7e70-11eb-8e78-20cc70610eac.png)
 # Text Analysis and Visualization of Twitter Posts
 **Authors:** Jenny (So Youn) Kim & Atlanta Liu 
 
@@ -21,12 +20,13 @@ Finally, we created a barplot dendrogram to visualize the results of our Latent 
 ### Tableau Visualizations
 
 ![Physical Activity and Sleep Disorder Tweet Comparison Across Canada]![Map](https://user-images.githubusercontent.com/80138718/110217252-455b9980-7e70-11eb-8ee2-ec774aefc545.png)
-![Google Trends](/Dashboards/GoogleTrends.png)
 
-![Bigram Dashboard](/Dashboards/Bigrams.png)
+![Google Trends]![GoogleTrends](https://user-images.githubusercontent.com/80138718/110217310-86ec4480-7e70-11eb-83ad-62f25830a63c.png)
 
-![Binary Classification](/Dashboards/BinaryClassify.png)
+![Bigram Dashboard]![Bigrams](https://user-images.githubusercontent.com/80138718/110217325-9bc8d800-7e70-11eb-9a84-720fd208d640.png)
 
-![Physical Activity LDA](/Dashboards/PhysActLDA.png)
+![Binary Classification]![BinaryClassify](https://user-images.githubusercontent.com/80138718/110217330-a3887c80-7e70-11eb-9a86-017aad82c138.png)
 
-![Sleep Disorder LDA](/Dashboards/SleepLDA.png)
+![Physical Activity LDA]![PhysActLDA](https://user-images.githubusercontent.com/80138718/110217334-a8e5c700-7e70-11eb-9bfd-05c4295f6d13.png)
+
+![Sleep Disorder LDA]![SleepLDA](https://user-images.githubusercontent.com/80138718/110217338-ad11e480-7e70-11eb-9946-19328bb02b04.png)
