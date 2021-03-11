@@ -7,7 +7,7 @@
 This is the final project for an advanced visualization course at the University of Calgary. For this project, we are comparing the overall context and trends of self-reported sleep disorders with physical activity tweets through an exploratory data analysis. We are aiming to gain a general understanding of how Canadian health is changing throughout time and major events and the reactions of Canadians as they share and post about perceptions regarding the state of their own physical and mental health.
 
 ### Dataset
-The Twitter dataset for both sleep disorders and physical activity was provided in a CSV format, with approximately 6000 and 8800 rows, respectively. The dataset contains about 500 columns, but only the name of the 'city', 'coordinates', 'text', and 'date created' were used in our analysis. The time span of our initial dataset included about three months, ranging from October to December 2019. A separate dataset containing labelled self-reported conditions was also used for this project. 
+The Twitter dataset for both sleep disorders and physical activity was provided in a CSV format, with approximately 6000 and 8800 rows, respectively. The raw dataset contains about 500 columns, but only the name of the 'city', 'coordinates', 'text', and 'date created' were used in our analysis. The time span of our initial dataset included about three months, ranging from October to December 2019. A separate dataset containing labelled self-reported conditions was also used for this project. 
 
 ### Project Breakdown
 
